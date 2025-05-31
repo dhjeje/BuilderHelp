@@ -1,0 +1,3 @@
+# Build
+
+hugo -d docs

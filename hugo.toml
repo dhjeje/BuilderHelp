@@ -1,0 +1,8 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Moxly App Builder Help'
+theme = "hugo-book"
+relativeURLs = true
+uglyURLs = false
+canonifyURLs = true
+[menu]
