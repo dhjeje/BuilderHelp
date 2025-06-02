@@ -7,7 +7,7 @@
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/ZZZops/BuilderHelp.git
+git clone https://github.com/dhjeje/BuilderHelp.git
 cd BuilderHelp
 ```
 ### Installing Dependencies
